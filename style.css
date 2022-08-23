@@ -160,6 +160,8 @@ body {
    #feac33, #fec647);
   background: linear-gradient(bottom,
    #feac33, #fec647);
+  background: -webkit-linear-gradient(bottom,
+   #feac33, #fec647);
   margin: 0 20px;
 }
 
