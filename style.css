@@ -158,6 +158,8 @@ body {
   font-size: 27px;
   background: -moz-linear-gradient(bottom,
    #feac33, #fec647);
+  background: linear-gradient(bottom,
+   #feac33, #fec647);
   margin: 0 20px;
 }
 
