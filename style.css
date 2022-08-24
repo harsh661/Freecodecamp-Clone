@@ -193,7 +193,7 @@ body {
   justify-content: center;
   flex-direction: column;
   background-color: #3b3b4f;
-  height: 250px;
+  padding: 35px 0;
   width: 100%;
 }
 .intro p{
